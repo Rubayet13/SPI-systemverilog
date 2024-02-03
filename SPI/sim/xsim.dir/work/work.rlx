@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/rubayet/Desktop/SPI/rtl/spi.sv,1706980605,systemVerilog,/home/rubayet/Desktop/SPI/tb/tb_top/spi_interface.sv;/home/rubayet/Desktop/SPI/tb/tb_top/spi_tb_top.sv,/home/rubayet/Desktop/SPI/tb/tb_top/spi_interface.sv,,$unit_spi_sv_4207169401;spi,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/agent/agent_pkg.sv,1706980558,systemVerilog,/home/rubayet/Desktop/SPI/rtl/spi.sv;/home/rubayet/Desktop/SPI/tb/environment/env_pkg.sv,/home/rubayet/Desktop/SPI/tb/environment/env_pkg.sv,/home/rubayet/Desktop/SPI/tb/agent/spi_trans.sv;/home/rubayet/Desktop/SPI/tb/agent/spi_driver.sv;/home/rubayet/Desktop/SPI/tb/agent/spi_monitor.sv;/home/rubayet/Desktop/SPI/tb/agent/spi_generator.sv,agent_pkg,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/agent/spi_driver.sv,1706980489,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/agent/spi_generator.sv,1706980516,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/agent/spi_monitor.sv,1706980514,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/agent/spi_trans.sv,1706980565,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/environment/env_pkg.sv,1706980294,systemVerilog,/home/rubayet/Desktop/SPI/rtl/spi.sv,/home/rubayet/Desktop/SPI/tb/tb_top/spi_tb_top.sv,/home/rubayet/Desktop/SPI/tb/environment/spi_sco.sv;/home/rubayet/Desktop/SPI/tb/environment/spi_env.sv,env_pkg,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/environment/spi_env.sv,1706980532,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/environment/spi_sco.sv,1706980538,verilog,,,,,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/tb_top/spi_interface.sv,1706980540,systemVerilog,,/home/rubayet/Desktop/SPI/tb/agent/agent_pkg.sv,,spi_if,,,,,,,,
+/home/rubayet/Desktop/SPI/tb/tb_top/spi_tb_top.sv,1706980545,systemVerilog,,,,tb,,,,,,,,

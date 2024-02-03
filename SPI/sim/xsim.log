@@ -1,0 +1,121 @@
+#-----------------------------------------------------------
+# xsim v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Feb  3 23:16:54 2024
+# Process ID: 14643
+# Current directory: /home/rubayet/Desktop/SPI/sim
+# Command line: xsim -mode tcl -source {xsim.dir/top/xsim_script.tcl}
+# Log file: /home/rubayet/Desktop/SPI/sim/xsim.log
+# Journal file: /home/rubayet/Desktop/SPI/sim/xsim.jou
+# Running On: asus, OS: Linux, CPU Frequency: 3100.017 MHz, CPU Physical cores: 2, Host memory: 8061 MB
+#-----------------------------------------------------------
+source xsim.dir/top/xsim_script.tcl
+# xsim {top} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+[DRV] : RESET DONE
+[GEN] : DATA_NEW : 0 DIN : 3848 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3848
+[MON] : DATA SENT : 3848
+[SCO] : DRV : 3848 MON : 3848
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 1677 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1677
+[MON] : DATA SENT : 1677
+[SCO] : DRV : 1677 MON : 1677
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 651 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 651
+[MON] : DATA SENT : 651
+[SCO] : DRV : 651 MON : 651
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 2098 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2098
+[MON] : DATA SENT : 2098
+[SCO] : DRV : 2098 MON : 2098
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 58 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 58
+[MON] : DATA SENT : 58
+[SCO] : DRV : 58 MON : 58
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 157 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 157
+[MON] : DATA SENT : 157
+[SCO] : DRV : 157 MON : 157
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 2740 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2740
+[MON] : DATA SENT : 2740
+[SCO] : DRV : 2740 MON : 2740
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 1112 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1112
+[MON] : DATA SENT : 1112
+[SCO] : DRV : 1112 MON : 1112
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 1934 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1934
+[MON] : DATA SENT : 1934
+[SCO] : DRV : 1934 MON : 1934
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 3508 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3508
+[MON] : DATA SENT : 3508
+[SCO] : DRV : 3508 MON : 3508
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 3524 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3524
+[MON] : DATA SENT : 3524
+[SCO] : DRV : 3524 MON : 3524
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 3377 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3377
+[MON] : DATA SENT : 3377
+[SCO] : DRV : 3377 MON : 3377
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 1794 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1794
+[MON] : DATA SENT : 1794
+[SCO] : DRV : 1794 MON : 1794
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 1941 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1941
+[MON] : DATA SENT : 1941
+[SCO] : DRV : 1941 MON : 1941
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 3313 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3313
+[MON] : DATA SENT : 3313
+[SCO] : DRV : 3313 MON : 3313
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 0 DIN : 2585 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2585
+[MON] : DATA SENT : 2585
+[SCO] : DRV : 2585 MON : 2585
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 4011 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 4011
+[MON] : DATA SENT : 4011
+[SCO] : DRV : 4011 MON : 4011
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 2234 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2234
+[MON] : DATA SENT : 2234
+[SCO] : DRV : 2234 MON : 2234
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 1653 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1653
+[MON] : DATA SENT : 1653
+[SCO] : DRV : 1653 MON : 1653
+[SCO] : DATA MATCHED
+[GEN] : DATA_NEW : 1 DIN : 144 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 144
+[MON] : DATA SENT : 144
+[SCO] : DRV : 144 MON : 144
+[SCO] : DATA MATCHED
+$finish called at time : 611170 ns : File "/home/rubayet/Desktop/SPI/tb/environment/spi_env.sv" Line 64
+exit
+INFO: [Common 17-206] Exiting xsim at Sat Feb  3 23:16:58 2024...

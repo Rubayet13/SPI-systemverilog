@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/SPI/rtl/spi.sv" into library work
+INFO: [VRFC 10-311] analyzing module spi
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/SPI/tb/tb_top/spi_interface.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/SPI/tb/agent/agent_pkg.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/SPI/tb/environment/env_pkg.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/SPI/tb/tb_top/spi_tb_top.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb
